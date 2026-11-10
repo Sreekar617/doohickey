@@ -5,5 +5,5 @@ In short, this means you may use parts from this project within your larger proj
 # Repository Outline
 
 [JOURNAL.md](JOURNAL.md) is a detailed design and build log<br>
-[CAD](cad/) contains STEP files and original Fusion drawings and project files (and also a couple random solidworks files lol sorry) for all parts
+[CAD](cad/) contains STEP files and original Fusion drawings/project files (and also a couple random solidworks files lol sorry) for all parts
 
